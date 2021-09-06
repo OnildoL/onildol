@@ -1,4 +1,3 @@
-### Hi, i'm Onildo Gonçalves
-
-- 🌱 Estudando Javascript, HTML, CSS, Node, SQL
-- 📫 Contato: @onildo.lf
+### Hi I'm Onildo Gonçalves
+- 🌱 Studying JAVASCRIPT, HTML, CSS, NODE, SQL
+- 📫 Contact: @onildo.lf
