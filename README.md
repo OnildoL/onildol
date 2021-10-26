@@ -1,9 +1,9 @@
 # Hi I'm Onildo Gonçalves
 
-- 📚 Student
-- 🌱 Studying React
-- 📫 Contact: @onildo.lf
-- 💬 Ask me about `[Git, Javascript, Node, ]`
+- 📚 I'm Student
+- 🌱 I'm Learning about: React and Clean architecture
+- 📫 Instagram: @onildo.lf
+- 💬 Ask me about: `[Git, Javascript, Node]`
 
 ![Onildo github stats](https://github-readme-stats.vercel.app/api?username=onildol&show_icons=true&theme=radical)
 
