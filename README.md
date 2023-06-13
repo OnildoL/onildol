@@ -1,4 +1,4 @@
-# Hi, i'm Onildo Gonçalves
+# Hi, I'm Onildo Gonçalves
 
 - 🌱 I'm Learning about: Clean architecture
 - 📫 Instagram: @onildots
